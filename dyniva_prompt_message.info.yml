@@ -2,4 +2,4 @@ name: 'Dyniva Prompt Message'
 description: 'Manage prompt message based on entity CRUD event.'
 type: module
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
